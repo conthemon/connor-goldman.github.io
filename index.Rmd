@@ -7,12 +7,12 @@ output:
     theme: cerulean
 ---
 
-# This is Jeff's awesome website
+# This is Connor's awesome website
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 
 #Lets add some links
-I often use [google](google.com) to do **data science**
+I often use [google](https://google.com) to do **data science**
 
 ## let's add an image
 
